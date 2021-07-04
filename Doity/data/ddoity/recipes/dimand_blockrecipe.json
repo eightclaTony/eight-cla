@@ -1,0 +1,16 @@
+{
+  "group": "ddoity",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "ddoity:diman_block"
+    }
+  },
+  "result": {
+    "item": "ddoity:dimand",
+    "count": 9
+  }
+}

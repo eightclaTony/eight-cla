@@ -1,0 +1,32 @@
+{
+  "group": "d_armor_helmet",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ddoity:dimand"
+    },
+    "1": {
+      "item": "ddoity:dimand"
+    },
+    "2": {
+      "item": "ddoity:dimand"
+    },
+    "3": {
+      "item": "ddoity:dimand"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "ddoity:dimand"
+    }
+  },
+  "result": {
+    "item": "ddoity:d_helmet",
+    "count": 1
+  }
+}

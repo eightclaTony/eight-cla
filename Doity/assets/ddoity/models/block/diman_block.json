@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ddoity:blocks/diman_ore_block",
+    "particle": "ddoity:blocks/diman_ore_block"
+  }
+}
